@@ -151,3 +151,6 @@ Python has a massive, active community that continuously contributes to its deve
 # Conclusion
 
 Python’s true power lies in its simplicity, versatility, and supportive ecosystem. Whether you're writing simple scripts or developing complex machine learning models, Python provides the tools, libraries, and community support to get things done efficiently. With its widespread adoption across industries, Python is a language that opens endless possibilities.
+
+
+[view on github pages](https://webbrowser11.github.io/go-python)
