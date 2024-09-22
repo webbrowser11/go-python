@@ -1,2 +1,2 @@
 # task's
-DONE! for now.
+maybe add favicon and stuff
