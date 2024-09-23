@@ -4,6 +4,8 @@ import time
 from datetime import datetime
 from io import StringIO
 
+# © 2024 webbrowser11
+
 def check_task_completion(csv_url):
     # Fetch the CSV file from the URL
     response = requests.get(csv_url)
