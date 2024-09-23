@@ -7,4 +7,4 @@ task directory
 # dev tools
 this directory is mostly a dev tool to put task's in (tasks.csv) and see if they are finished (task-checker.py)
 # how to run task-checker.py
-make sure you have [python](example.com) [comment]: <> (add link later) installed. then download task-checker.py and run it.
+make sure you have [python](https://www.python.org/downloads/release/python-3125/) installed. then download task-checker.py and run it.
