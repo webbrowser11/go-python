@@ -4,8 +4,6 @@ import time
 from datetime import datetime
 from io import StringIO
 
-# for devs to run on their computer to see if a file is finished or not.
-
 def check_task_completion(csv_url):
     # Fetch the CSV file from the URL
     response = requests.get(csv_url)
@@ -25,8 +23,8 @@ def check_task_completion(csv_url):
         
         for row in reader:
             task = row['task']
-            date_finished = row['datefinished']
-            time_finished = row['timefinsihed']
+            date_finished = row['datetobefinished']
+            time_finished = row['timetobefinsihed']
             
             # Combine date and time for comparison
             finished_time_str = f"{date_finished} {time_finished}"
