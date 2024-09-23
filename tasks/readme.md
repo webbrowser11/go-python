@@ -1,2 +1,2 @@
 # task's
-maybe add favicon and stuff
+ADD SOME MORE TEXT DOCUMENT'S AND STUFF.
