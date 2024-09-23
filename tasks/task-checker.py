@@ -41,6 +41,6 @@ def check_task_completion(csv_url):
         print(f"Failed to retrieve the file. Status code: {response.status_code}")
 
 # Usage
-csv_url = 'https://webbrowser11.github.io/tasks/tasks.csv'  # Replace with your CSV URL
+csv_url = 'https://webbrowser11.github.io/go-python/tasks/tasks.csv'  # Replace with your CSV URL
 check_task_completion(csv_url)
 time.sleep(30)
